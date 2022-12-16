@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bedi</h1>
-<h3 align="center">A passionate Analyics Consultant wanting to build a career in AIML domain</h3>
+<h3 align="center">A passionate Analytics Consultant aspiring to build a career in AIML subspace</h3>
 
 - 🌱 I’m currently learning **Machine Learning, DSA**
 
